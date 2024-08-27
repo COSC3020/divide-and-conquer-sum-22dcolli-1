@@ -32,5 +32,7 @@ function dacSumHelper(a,low,high)
 
 }
 
-//let a = [1,2,-3,3,4,-1];
+//let a = [1,5,-1,4];
+//let b = [1,2,-3,3,4,-1];
 //console.log(divideAndConquerSum(a));
+//console.log(divideAndConquerSum(b));
