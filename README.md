@@ -26,7 +26,7 @@ and solve it as we did in the lectures. Give the final $\Theta$ complexity.
 Describe your reasoning and the conclusion you've come to. Your reasoning is the
 most important part. Add your answer to this markdown file.
 
-## Answer(formatted?)
+## Answer
 The recurrence relation is:
 
 $$\begin{equation}T(n)=\begin{cases}1 & \text{if $n&le;1$} \\
