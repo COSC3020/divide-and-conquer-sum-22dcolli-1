@@ -46,7 +46,7 @@ $Inserting$ $i=\log_{3} :$
 
 $=>(3^{log_{3}})nT(\frac{n}{3^{log_{3n}}})$
 
-$3^{log_{3}}$ is a constant number so:
+ remembering that $3^{log_{3}}$ can be considered a constant 
 
 $=>(1)nT(1)$
 
