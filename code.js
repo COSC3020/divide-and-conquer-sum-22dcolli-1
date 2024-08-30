@@ -1,6 +1,7 @@
 //updated off of old repository divide-and-conquer-sum-22dcolli, specifically tried to limit non repeating variables.
 //i.e range = (high-low) because I noticed it was used more than once
 //as before credit to replit AI IDE and a reminder example of mergesort from GeeksforGeeks found in the original and reinserted below.
+//replit AI IDE helped specifically on lines 39 and 40 with the proper use of math.floor and on line 43 because I mixed up my variables, technically then as well I modeled line 44 off of 43 in turn
 //I also need to mention while working through this I renamed the mergesort starting example to devideAndConquerSum so I could test it(I didn't have any reason to, but I hadn't thought about it)
 /*
 function devideAndConquerSum(a){
